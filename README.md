@@ -31,7 +31,7 @@ Experience the warmth of freshly brewed coffee, delicious pastries, and a cozy a
 ### ⭐Home Page⭐
 <div align="center">
 
-![Home Page](img/homepage.jpg)
+![Home Page](img/Homepage.png)
 </div>
 
 **Description:** <i>The Home Page welcomes users to Cozy Cup Cafe with a warm and inviting design. It introduces the café, highlights featured products, and provides easy navigation to explore the rest of the website.</i>
@@ -41,7 +41,7 @@ Experience the warmth of freshly brewed coffee, delicious pastries, and a cozy a
 ### ⭐Menu⭐
 <div align="center">
 
-![Menu](img/menu.jpg) 
+![Menu](img/Menu.png) 
 </div>
 
 **Description:** <i>The Menu Page showcases the café's selection of coffee, beverages, and delicious food items. Each product is presented with its name, image, and price, making it easy for customers to browse and choose their favorites.</i>
@@ -52,7 +52,7 @@ Experience the warmth of freshly brewed coffee, delicious pastries, and a cozy a
 ### ⭐About Us⭐
 <div align="center">
 
-![About Us](img/aboutus.jpg)
+![About Us](img/AboutUs.png)
 
 </div>
 
@@ -63,7 +63,7 @@ Experience the warmth of freshly brewed coffee, delicious pastries, and a cozy a
 ### ⭐Contact Page⭐
 <div align="center">
 
-![Contact](img/contactpage.jpg)
+![Contact](img/Contact.png)
 </div>
 
 **Description:** <i>The Contact Page allows customers to get in touch with Cozy Cup Cafe. It includes contact information, social media links, location details, and a contact form for inquiries, feedback, or reservations.</i>
